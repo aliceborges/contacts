@@ -33,7 +33,6 @@ node server.js
 ```
 
 #### 3. Instalações:
-###### Necessário ter o Node.js instalado na máquina.
 ```
 cd contacts
 npm install
